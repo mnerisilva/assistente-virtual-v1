@@ -1,0 +1,34 @@
+[
+    {
+        "pergunta": "Quais são as formas de pagamento?",
+        "resposta": "Aceitamos várias formas de pagamento para sua conveniência: cartão de crédito em até 6x sem juros, boleto bancário com 5% de desconto à vista, e pagamento via PIX com confirmação imediata. Para pedidos corporativos, oferecemos também a possibilidade de faturamento para 28 dias."
+    },
+    {
+        "pergunta": "Qual é o prazo de entrega?",
+        "resposta": "Nosso prazo de entrega varia de 3 a 7 dias úteis, dependendo da sua localização. Para capitais e regiões metropolitanas, as entregas geralmente chegam em até 3 dias úteis. Para cidades do interior, o prazo é de até 7 dias úteis. Você pode acompanhar seu pedido em tempo real pelo código de rastreamento que enviamos por e-mail."
+    },
+    {
+        "pergunta": "Posso devolver o produto?",
+        "resposta": "Sim, você pode devolver qualquer produto em até 7 dias após o recebimento, conforme o Código de Defesa do Consumidor. É necessário que o produto esteja em perfeitas condições, na embalagem original e com todos os acessórios. Para iniciar o processo de devolução, entre em contato com nosso time de atendimento pelo e-mail ou telefone disponíveis na seção de contato."
+    },
+    {
+        "pergunta": "Vocês oferecem garantia?",
+        "resposta": "Todos os nossos produtos possuem garantia de 1 ano contra defeitos de fabricação, conforme especificações do fabricante. Alguns produtos premium têm garantia estendida de até 2 anos. A garantia cobre apenas defeitos de fabricação e não cobre danos causados por uso inadequado, quedas ou instalação incorreta. Para acionar a garantia, entre em contato com nossa equipe de suporte técnico."
+    },
+    {
+        "pergunta": "Como faço para rastrear meu pedido?",
+        "resposta": "Rastrear seu pedido é muito simples. Após a confirmação do pagamento, você receberá um e-mail com o código de rastreamento. Basta acessar a seção 'Meus Pedidos' em sua conta ou clicar no link de rastreamento que enviamos por e-mail. Você também pode entrar em contato com nosso atendimento informando o número do pedido para obter atualizações em tempo real."
+    },
+    {
+        "pergunta": "Vocês entregam em todo o Brasil?",
+        "resposta": "Sim, realizamos entregas para todos os estados e municípios do Brasil. Para regiões mais remotas ou de difícil acesso, pode haver um prazo adicional de entrega e, em alguns casos, uma taxa extra de frete. Consulte o cálculo de frete durante o processo de checkout para informações específicas para seu CEP."
+    },
+    {
+        "pergunta": "Como cancelar um pedido?",
+        "resposta": "Você pode solicitar o cancelamento do pedido em até 24 horas após a confirmação da compra, desde que o produto ainda não tenha sido enviado. Para cancelar, acesse 'Meus Pedidos' em sua conta e clique na opção 'Solicitar cancelamento', ou entre em contato com nosso atendimento informando o número do pedido. Após a análise, o valor será estornado de acordo com a forma de pagamento utilizada."
+    },
+    {
+        "pergunta": "Preciso de nota fiscal?",
+        "resposta": "Sim, emitimos nota fiscal para todas as compras. A nota fiscal eletrônica (NF-e) é enviada automaticamente para o e-mail cadastrado no momento da compra, geralmente em até 24 horas após a confirmação do pagamento. Caso precise da nota fiscal para CNPJ ou com dados específicos, informe durante o processo de compra ou entre em contato com nosso atendimento antes de finalizar o pedido."
+    }
+]
